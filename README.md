@@ -1,4 +1,4 @@
-# pringelsmod test
+# pringelsmod
 A forge mod that adds pringels to minecraft!<br>
 <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/xhendrikg/pringelsmod?style=plastic">
 <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/xhendrikg/pringelsmod?style=plastic">
